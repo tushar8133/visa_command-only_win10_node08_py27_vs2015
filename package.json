@@ -1,0 +1,17 @@
+{
+  "name": "visa",
+  "version": "1.0.0",
+  "description": "An FFI module exposing the NI VISA library",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "Peter Torelli <peter@petertorelli.com>",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "ffi": "^2.3.0",
+    "ref": "^1.3.5"
+  }
+}
